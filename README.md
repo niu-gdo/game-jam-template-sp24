@@ -82,3 +82,8 @@ Note that while this may seem like a lot of scripts and components, they should 
 * Chapter 4. Build the Asteroid scripts.
 * Chapter 5. Build the Asteroid Spawner Script.
 * Chapter 6. Game Manager and UI.
+
+### Desired Packages and Art
+* [Kenney NL - Simple Space Pack](https://kenney.nl/assets/simple-space)
+* [Kenney NL - UI Pack](https://kenney.nl/assets/ui-pack)
+* [Westbeam's Space Background](https://opengameart.org/content/space-background-1)
