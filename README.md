@@ -6,7 +6,7 @@ This repository houses both the starter project for IGDO's SP22 Game Jam Templat
 
 You are greatly encouraged to download the starter project and follow our guided tutorial for building it up to the full template. After which, feel free to expand on the template with your own features and show off what you've created! Link to the tutorial below:
 
-[PUT GDL LINK HERE]()
+[Spring 2024 Game Jam Template](https://library.niugame.dev/tutorials/unity-tutorials/sp24-jam-template/sp24-jam-template-index/)
 
 ## Installation:
 1. Download this repository
